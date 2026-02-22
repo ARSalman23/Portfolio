@@ -82,5 +82,5 @@ npm run dev
 
 I am **Md. Abdur Rahman Salman**, a **B.Sc. in CSE** student at **Metropolitan University (Batch 58)** with a **3.70 CGPA**. I am an active **Competitive Programmer** and a **Junior Support Instructor** at **Progsity**, dedicated to mentoring students in **Data Structures and Algorithms**.
 
-* **GitHub:** [@ARSalman23](https://www.google.com/search?q=https://github.com/ARSalman23)
+* **GitHub:** [ARSalman23](https://github.com/ARSalman23)
 * **LinkedIn:** [Md. Abdur Rahman Salman](https://www.linkedin.com/in/md-abdur-rahman-salman-02a105275/)
