@@ -1,4 +1,4 @@
-# Professional Portfolio | Md. Abdur Rahman Salman
+# Professional Portfolio
 
 <img width="1828" height="909" alt="image" src="https://github.com/user-attachments/assets/9ac2ea8d-65a4-452f-b931-6a7b0ae51cb3" />
 
@@ -84,7 +84,3 @@ I am **Md. Abdur Rahman Salman**, a **B.Sc. in CSE** student at **Metropolitan U
 
 * **GitHub:** [@ARSalman23](https://www.google.com/search?q=https://github.com/ARSalman23)
 * **LinkedIn:** [Md. Abdur Rahman Salman](https://www.linkedin.com/in/md-abdur-rahman-salman-02a105275/)
-* **WhatsApp:** [Connect via WhatsApp](https://wa.me/qr/KQI6WWVT77ONL1)
-
-
-
