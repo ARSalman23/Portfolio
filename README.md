@@ -5,17 +5,17 @@
 
 ### **[Live Demo](https://portfolio-arsalman23s-projects.vercel.app/)**
 
-A high-performance, responsive portfolio built with a modern "Greenish & Blackish" hacker aesthetic. This project showcases my journey as a **Competitive Programmer**, **Technical Trainer**, and **Software Engineer**.
+A high-performance, responsive portfolio built with a modern "Greenish & Blackish" hacker aesthetic. This project showcases my journey as a **Competitive Programmer** and **Technical Trainer**.
 
 ---
 
 ## Key Features
 
-* **Modern UI/UX:** A clean, dark-themed design using **Glassmorphism** and custom CSS gradients.
-* **Interactive Elements:** Integrated **React Parallax Tilt** for dynamic 3D card effects in the Skills, Experience, and Education sections.
-* **Fully Responsive:** Optimized for all screen sizes—from mobile devices to ultra-wide monitors.
-* **Functional Contact Form:** Built with **EmailJS** for real-time email delivery and **React-Toastify** for user feedback.
-* **Project Showcase:** Detailed modal views for projects like the **Sell-It-Marketplace**.
+* Responsive design for all screen sizes.
+* Smooth scroll and animation effects.
+* Clean and modular React components.
+* Easy to customize with Tailwind utility classes.
+* Professional sections: About, Skills, Projects, Contact, etc.
 
 ---
 
