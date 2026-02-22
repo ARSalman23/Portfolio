@@ -34,7 +34,7 @@ A high-performance, responsive portfolio built with a modern "Greenish & Blackis
 ```text
 src/
 ├── assets/             # Logos, Images, and Tech icons
-├── components/         # Reusable UI components (Navbar, Skills, Work, etc.)
+├── components/         # Reusable UI components (Navbar, Skills, Education, etc.)
 ├── constants/          # Data objects for easy content management
 └── App.js              # Main application entry point
 
@@ -86,9 +86,5 @@ I am **Md. Abdur Rahman Salman**, a **B.Sc. in CSE** student at **Metropolitan U
 * **LinkedIn:** [Md. Abdur Rahman Salman](https://www.linkedin.com/in/md-abdur-rahman-salman-02a105275/)
 * **WhatsApp:** [Connect via WhatsApp](https://wa.me/qr/KQI6WWVT77ONL1)
 
----
 
-## License
-
-This project is [MIT](https://www.google.com/search?q=LICENSE) licensed.
 
