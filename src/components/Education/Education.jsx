@@ -58,13 +58,7 @@ const Education = () => {
                   </div>
                 </div>
 
-                {/* Grade  */}
-                <div className="mb-6">
-                   <span className="text-xs font-bold text-gray-500 uppercase tracking-widest block mb-2">Result:</span>
-                   <span className="text-white bg-[#111111] border border-gray-800 px-3 py-1 rounded-lg text-sm font-semibold shadow-sm">
-                      {edu.grade}
-                   </span>
-                </div>
+                
 
                 {/* Description */}
                 <p className="text-gray-400 text-sm leading-relaxed">
